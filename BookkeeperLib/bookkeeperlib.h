@@ -7,6 +7,8 @@ class BOOKKEEPERLIB_EXPORT BookkeeperLib
 {
 public:
     BookkeeperLib();
+
+    int add(int a, int b);
 };
 
 #endif // BOOKKEEPERLIB_H
